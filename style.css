@@ -187,7 +187,7 @@ p.pop:hover {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 786px) {
   
   body {
     background-attachment: scroll;
@@ -248,3 +248,4 @@ p.pop:hover {
     font-size: 0.9rem;
   }
 }
+
